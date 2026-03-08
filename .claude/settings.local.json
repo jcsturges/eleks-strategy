@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google-workspace__slides_create",
+      "mcp__google-workspace__slides_read",
+      "mcp__google-workspace__slides_add_slide",
+      "mcp__google-workspace__docs_create",
+      "mcp__google-workspace__docs_update"
+    ]
+  }
+}
